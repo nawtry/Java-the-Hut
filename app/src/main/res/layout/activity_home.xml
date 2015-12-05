@@ -11,9 +11,9 @@
         android:layout_height="80dp"
         android:layout_centerHorizontal="true"
         android:gravity="center_horizontal"
-        android:textSize="55dp"
+        android:textSize="54dp"
         android:textColor="#3debd4"
-        android:id="@+id/textView2" />
+        android:id="@+id/titleName" />
 
     <Button
         android:id="@+id/maps"
