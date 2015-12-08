@@ -29,7 +29,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/editText2"
+            android:id="@+id/event_name"
             android:layout_gravity="center_horizontal"
             android:inputType="textShortMessage"
             android:hint="Event Name" />
@@ -37,7 +37,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/editText"
+            android:id="@+id/time"
             android:inputType= "time"
             android:hint="Time" />
 
@@ -45,7 +45,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:id="@+id/editText3"
+            android:id="@+id/location"
             android:layout_gravity="center_horizontal"
             android:inputType="textPostalAddress"
             android:hint="Location" />
@@ -54,7 +54,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:id="@+id/editText4"
+            android:id="@+id/description"
             android:inputType= "textLongMessage"
             android:hint="Event Description" />
 
@@ -64,14 +64,15 @@
             android:inputType="textPersonName"
             android:hint="Event Organizer (Optional)"
             android:ems="10"
-            android:id="@+id/editText5" />
+            android:id="@+id/organizer_name" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Create Event!"
-            android:id="@+id/button2"
-            android:layout_gravity="center_horizontal" />
+            android:id="@+id/create_event"
+            android:layout_gravity="center_horizontal"
+            android:singleLine="false" />
 
     </LinearLayout>
 
