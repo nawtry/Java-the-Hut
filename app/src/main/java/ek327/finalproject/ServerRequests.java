@@ -2,7 +2,7 @@ package ek327.finalproject;
 
 /**
  * Created by tiffanywu on 12/6/15.
- */
+
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -36,10 +36,10 @@ public class ServerRequests {
         progressDialog.show();
     }
 
-    /**
+
      * parameter sent to task upon execution progress published during
      * background computation result of the background computation
-     */
+
 
     public class StoreUserDataAsyncTask extends AsyncTask<Void, Void, Void> {
         Event event;
@@ -86,3 +86,4 @@ public class ServerRequests {
     }
 
     }
+*/

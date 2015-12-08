@@ -7,4 +7,7 @@
     <string name="title_activity_list">List</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="open">List</string>
+    <string name="close">Main Page</string>
 </resources>
