@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/editText2"
             android:layout_gravity="center_horizontal"
-            android:inputType="textShortMessage||textCapWords"
+            android:inputType="textShortMessage"
             android:hint="Event Name" />
 
         <EditText
