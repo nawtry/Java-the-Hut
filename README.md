@@ -13,4 +13,7 @@ On the Create an Event page, the user is allowed to input different criteria (so
   Event Organizer (optional)
 Each criteria would be encorpated into the Event and visible to all users of the app.
 
-On the List page, the user is shown 
+On the List page, the user is shown ....
+
+
+*********************** 
