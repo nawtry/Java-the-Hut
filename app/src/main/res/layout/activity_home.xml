@@ -15,7 +15,16 @@
         android:textSize="65dp"
         android:id="@+id/titleName"
         android:textStyle="bold" />
-
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="2000dp"
+        android:src="@mipmap/ic_launcher"
+        android:maxHeight="100dp"
+        android:maxWidth="@+id/maps"
+        android:layout_above="@+id/maps"
+        android:layout_alignRight="@+id/titleName"
+        android:layout_alignEnd="@+id/titleName"
+        android:layout_below="@+id/titleName" />
     <Button
         android:id="@+id/maps"
         android:text="@string/maps"
