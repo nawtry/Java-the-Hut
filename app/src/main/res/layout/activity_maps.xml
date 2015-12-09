@@ -13,34 +13,34 @@
       MapMarkerActivity">
 
 
-    <LinearLayout
+    <TableRow
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:weightSum="1">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView"
-            android:text="Location:"
-            android:textSize="20sp" />
+            android:text="Map"
+            android:id="@+id/textView2"
+            android:textSize="30dp"
+            android:textColor="#446ece" />
 
-        <EditText
-            android:layout_width="183dp"
+        <TextView
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/editText"
-            android:layout_gravity="center_horizontal" />
+            android:text="                   "
+            android:id="@+id/textView3"
+            android:textSize="30dp"
+            android:layout_weight="1.03" />
 
         <Button
-            android:layout_width="71dp"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Go"
-            android:id="@+id/button"
-            android:onClick="findLocation" />
-
-    </LinearLayout>
-
-
+            android:text="Back Button"
+            android:id="@+id/back_button" />
+    </TableRow>
 
     <fragment xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/map"
