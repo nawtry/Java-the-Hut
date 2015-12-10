@@ -13,7 +13,13 @@ On the Create an Event page, the user is allowed to input different criteria (so
   Event Organizer (optional)
 Each criteria would be encorpated into the Event and visible to all users of the app.
 
-On the List page, the user is shown ....
+On the List page, the user is shown all of the events created on the app in order of proximity to their current location. By tapping on any event, the user can access the event info, inputted by the creator of that event.
+
+On the Map page, the user is shown a map centered at their current location. Each event that is created on the app is shown as a marker on the map. By clicking the marker once, a small summary box is shown with some event information. By clicking 'View Event', the user is taken to the event page where they can read more about the event details.
+
+On each page there is a 'HOME' button which redirects the user to the Home page, seen at the start of the app. 
 
 
-*********************** 
+*********
+
+Add more as we create more features!
