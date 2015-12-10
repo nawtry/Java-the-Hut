@@ -1,6 +1,8 @@
 # Java-the-Hut
 EC327 Fall 2015 Android App Team: Java the Hut
 
+****************
+
 The Fun Finder app, created by the Java the Hut team, is an event app that allows users to find events or advertise events in their area.
 
 The three functions shown on the Home page are Create an Event, List, and Map. 
