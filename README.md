@@ -8,11 +8,12 @@ The Fun Finder app, created by the Java the Hut team, is an event app that allow
 The three functions shown on the Home page are Create an Event, List, and Map. 
 
 On the Create an Event page, the user is allowed to input different criteria (some optional) for the event they would like to create. The criteria are as follows:
-  Event Name
-  Time
-  Location
-  Event Description
-  Event Organizer (optional)
+Event Name
+Time
+Location
+Event Description
+Event Organizer (optional)
+
 Each criteria would be encorpated into the Event and visible to all users of the app.
 
 On the List page, the user is shown all of the events created on the app in order of proximity to their current location. By tapping on any event, the user can access the event info, inputted by the creator of that event.
