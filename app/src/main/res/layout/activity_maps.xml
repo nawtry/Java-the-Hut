@@ -38,7 +38,7 @@
             style="?android:attr/buttonStyleSmall"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Back Button"
+            android:text="HOME"
             android:id="@+id/back_button" />
     </TableRow>
 
