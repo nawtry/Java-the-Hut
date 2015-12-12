@@ -16,6 +16,8 @@ On the Map page, the user is shown a map centered at their current location. Eac
 
 On each page there is a 'HOME' button which redirects the user to the Home page, seen at the start of the app. 
 
+The website where our database is is ek327app.comlu.com. We have two php files-- create_new_event and get_event_data. 
+The php files are included in the main page of GitHub.
 
 *********
 
