@@ -1,5 +1,10 @@
-# Java-the-Hut
-EC327 Fall 2015 Android App Team: Java the Hut
+EC327 Fall 2015 Android App 
+Team: Java the Hut
+
+
+Welcome to Fun Finder!
+Bored and need some place to go for the night? Afraid no one will come to your awesome ice cream social? No worries! Download fun finder and never be bored again!
+
 
 ****************
 
