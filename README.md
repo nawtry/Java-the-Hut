@@ -21,4 +21,3 @@ The php files are included in the main page of GitHub.
 
 *********
 
-Add more as we create more features!
